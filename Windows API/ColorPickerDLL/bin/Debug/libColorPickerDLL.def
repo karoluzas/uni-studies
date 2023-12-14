@@ -1,0 +1,8 @@
+EXPORTS
+    AnotherWindow@20 @1
+    _Z15ShowColorPickerv @2
+    _Z20ColorPickerProcedureP6HWND__jjl@16 @3
+    hBitmap @4 DATA
+    hColorPickerInstance @5 DATA
+    hMain @6 DATA
+    hwnd @7 DATA
